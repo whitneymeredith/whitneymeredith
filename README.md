@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 
 ## GitHub stats
 
-These stats are a little out of date. My current work is in a private repo that I can't pull stats from.
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=whitneymeredith&show_icons=true&theme=tokyonight">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=whitneymeredith&show_icons=true&theme=tokyonight">
