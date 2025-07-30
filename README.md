@@ -6,4 +6,4 @@
   
 ## GitHub stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitneymeredith&show_icons=true&theme=tokyonight&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitneymeredith&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600" />
